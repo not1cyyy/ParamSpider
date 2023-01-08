@@ -114,7 +114,7 @@ $ python3 paramspider.py --domain bugcrowd.com --exclude woff,css,js,png,svg,php
 
 ```
 As it fetches the parameters from web archive data ,
-so chances of false positives are high.
+so chances of false positives are quite high.
 ```
 
 ### Contributing to ParamSpider :
